@@ -18,8 +18,18 @@ through cleaning, transformation, and visualization into a professional, interac
 Excel Tables · VLOOKUP · SUMIF · PivotTables · Charts · Data Cleaning
 
 ## Files
-- `sales_dashboard.xlsx` — Final workbook
+- `sample_sales_data_en (1)` — Final workbook
 
 ## Screenshots
-See the `screenshots/` folder for a walkthrough of the cleaned data, summary tables, and
-final dashboard.
+## Screenshots
+
+### Cleaned Data
+![Data Cleaned](data-cleaned.png)
+
+### Summary Tables
+![Summary Table 1](summary-table1.png)
+![Summary Table 2](summary-table2.png)
+
+### Final Dashboard
+![Dashboard](dashboard-final.png)
+
